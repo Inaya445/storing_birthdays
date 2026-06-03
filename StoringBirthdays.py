@@ -1,0 +1,6 @@
+Myra = ("10.25")
+Vihaan = ("04.06")
+Inaya = ("12.26")
+Siya = ("10.23")
+Raj = ("01.07")
+print (Myra, Vihaan, Inaya, Siya, Raj)
